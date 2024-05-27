@@ -1,0 +1,13 @@
+h1 {
+    font-size: 30px;
+    color: #1B1B1B;
+    font-family: Helvetica, sans-serif;
+}
+body {
+    background-color: #cccccc;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
